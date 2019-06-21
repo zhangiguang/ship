@@ -1,2 +1,2 @@
 # ship
-My code and dateset will open here.
+Our code and dateset will be open source here.
