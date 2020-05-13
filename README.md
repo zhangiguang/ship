@@ -1,5 +1,5 @@
 # ship
-The code are followed "https://github.com/DetectionTeamUCAS"
+The codes are followed "https://github.com/DetectionTeamUCAS"
 ## Environment
 python2.7
 
